@@ -47,3 +47,18 @@ hackintosh版本：10.15.1
 7.蓝牙CSR8510免驱。由于没有iphone，无法测试互传。
 
 8.USB3.0和2.0正常，依照黑果小兵大大的教程定制USB，链接：https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html
+
+# 配置图
+	![配置](images/1.png)
+	![配置](images/2.png)
+	![配置](images/3.png)
+	![配置](images/4.png)
+	![配置](images/5.png)
+	![配置](images/6.png)
+	![配置](images/7.png)
+	![配置](images/8.png)
+	![配置](images/9.png)
+	![配置](images/10.png)
+	![配置](images/11.png)
+	![配置](images/12.png)
+	
