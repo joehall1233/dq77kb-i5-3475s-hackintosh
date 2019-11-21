@@ -49,7 +49,7 @@ hackintosh版本：10.15.1
 8.USB3.0和2.0正常，依照黑果小兵大大的教程定制USB，链接：https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html
 
 # 配置图
-	![配置](images/1.png)
+  ![配置](images/1.png)
 	![配置](images/2.png)
 	![配置](images/3.png)
 	![配置](images/4.png)
