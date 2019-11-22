@@ -23,7 +23,7 @@ clover版本：r5096
 hackintosh版本：10.15.1
 ```
 # BIOS设置
-先把BISO恢复到默认设置
+先把BIOS恢复到默认设置
 
 - 关闭串口，将configuration/onboard devices/serial prot修改为disable
 - 禁用 VT-d，将secuity/intel vt directed i/o修改为disable
