@@ -44,7 +44,7 @@ hackintosh版本：10.15.1
 
 6.无线网卡DW1510免驱，局域网互拷速度30MB/S。
 
-7.蓝牙CSR8510免驱。由于没有iphone，无法测试互传。
+7.蓝牙CSR8510免驱。显示隔空投送，由于没有iphone，无法测试互传。
 
 8.USB3.0和2.0正常，依照黑果小兵大大的教程定制USB，链接：https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html
 
