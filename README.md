@@ -8,6 +8,9 @@
 
 2019.11.23 经测试，DQ77KB原生支持NVRAM，正在学习OpenCore。
 
+2019.11.26 应网友要求，把hackintool驱动核显之前的config文件放上来。嫌弃驱动后显卡名称变成一长串，不美观。
+驱动前，名称为Intel HD Graphics 4000 1536MB
+	![配置](images/14.png)
 
 # 配置
 ```shell
